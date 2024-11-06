@@ -67,6 +67,9 @@ h3 {
 
 .transaction_container {
     margin-top: 20px;
+    max-height: 344px; 
+    overflow-y: auto;
+    padding-right: 5px;
 }
 
 .transactions {
